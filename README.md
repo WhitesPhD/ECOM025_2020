@@ -1,6 +1,6 @@
 ## Financial Econometrics (Course material)
 
-This material covers some of the topics I covered in my Financial Econometrics course (MSc in Finance and Econometrics) at the Queen Mary, University of London. 
+This is some of the material I covered last year for my course of "Financial Econometrics" at the Queen Mary, University of London. Topics are the following:
 
 The syllabus contains:
 
@@ -12,7 +12,7 @@ The syllabus contains:
 * Value-at-Risk and Expected Shortfall
 * Multivariate volatility modeling and correlations
 
-The material include slides and some Matlab codes for the tutorials.
+The material include slides and some Matlab codes for the tutorials. This is material for a graduate level module, so an undergraduate degree is useful. 
 
 Hope you will find this useful
 

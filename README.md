@@ -1,4 +1,4 @@
-## Introduction to Financial Econometrics
+## Financial Econometrics (Course material)
 
 This material covers some of the topics I covered in my Financial Econometrics course (MSc in Finance and Econometrics) at the Queen Mary, University of London. 
 
